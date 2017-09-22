@@ -1,4 +1,3 @@
-```python
-var=0
-print "%d" % (var)
-```
+
+### Neat Links
+(img/sm-twitter-logo.jpg)
