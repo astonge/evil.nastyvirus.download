@@ -11,9 +11,9 @@
 [Pentester Lab](https://pentesterlab.com/)
 
 ### Books
-[BTFM – Blue Team Field Manual] (http://#/)
-[Violent Python] (http://#/)
-[Nmap Network Scanning (only for those who chew through books like candy)] (http://#/)
-[The Hackers Playbook 2] (http://#/)
-[Basic Security Testing with Kali Linux 2] (http://#/)
-[Intermediate Security Testing with Kali Linux 2] (http://#/)
+* [BTFM – Blue Team Field Manual](http://evil/)
+* [Violent Python](http://evil/)
+* [Nmap Network Scanning (only for those who chew through books like candy)](http://evil/)
+* [The Hackers Playbook 2](http://evil/)
+* [Basic Security Testing with Kali Linux 2](http://evil/)
+* [Intermediate Security Testing with Kali Linux 2](http://evil/)
