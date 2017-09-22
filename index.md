@@ -1,3 +1,3 @@
 
 ### Neat Links
-(img/sm-twitter-logo.jpg)
+(http://evil.nastyvirus.download/img/sm-twitter-logo.jpg)
