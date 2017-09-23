@@ -3,6 +3,7 @@
 
 * [Breaking into Infosec](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
 * [Malware RE 101/102](https://securedorg.github.io/)
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 
 * [Hack the box](https://www.hackthebox.eu/home)
 * [Over the wire](http://overthewire.org/wargames/)
