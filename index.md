@@ -29,3 +29,10 @@
 * [The Hackers Playbook 2](http://evil/)
 * [Basic Security Testing with Kali Linux 2](http://evil/)
 * [Intermediate Security Testing with Kali Linux 2](http://evil/)
+
+My stuff
+======
+
+* [Hack the box](https://www.hackthebox.eu/home/users/profile/8784)
+* [Cybrary](https://www.cybrary.it/members/astonge/)
+* [Twitter](https://twitter.com/sp4c3_m0nk3y)
