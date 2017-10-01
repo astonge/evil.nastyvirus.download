@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ajstonge
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://evil.nastyvirus.download
+  * I am ajstonge (https://keybase.io/ajstonge) on keybase.
+  * I have a public key with fingerprint 138C C716 17C7 90B0 1C43  BABD 124A D0C8 3C0C 5255
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101afeddbac305cbd05ba8d277bcdc01f36379bdcae38ec5e6f731b3bfd1928ff390a",
+      "fingerprint": "138cc71617c790b01c43babd124ad0c83c0c5255",
+      "host": "keybase.io",
+      "key_id": "124ad0c83c0c5255",
+      "kid": "0101afeddbac305cbd05ba8d277bcdc01f36379bdcae38ec5e6f731b3bfd1928ff390a",
+      "uid": "81d1c386a795a44a8858d2c3ee778219",
+      "username": "ajstonge"
+    },
+    "service": {
+      "hostname": "evil.nastyvirus.download",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506837628,
+  "expire_in": 157680000,
+  "prev": "6773f1e70e6ec3d75ae6922dc0bc65d1210c494315cf902ca48e0b3c73c7f344",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMIwAnicrVJXaBRBGL7YosGAWLDhg/siaAwzO7s7uwdiRdRDxBbOgse0jatx99zd
+O43G3hsYQUQRhANRxAdzgmIlaiRKNGpEYwkW7CUSEREswdmgbz46DAzz833f/33/
+TF1x51hRQe76vpqrxw6oBQ2XcpnYnNsbq1Yq1OOVSnylslh0HKKCiyBMLXa4ElcA
+BJDYgnNKGAI6oxzolJhcxZgyzgC0kYGwRTkjApmC6cKwMYIUUZtDSzVtG1mAKCWK
+7bjlwk/7jhtKWYhMxjA0IGbYAhRApiFKKIeqRjhgJmKA6aquS+JCL4gY0hwlgSh1
+PFmTl1SHvX/g/7PvTIecCTlkyDQItnSiacQ0danFkBAYmyq0ImAgfJcsERJNFgWh
+J+Mqq0oUWc06TESDjZL8QYisU1HqkiCszDp+Jijl3jK3wiNc6qR9L/SYVyFRC8Mw
+HY9Ewsp0xFomaOqPXoo6LpcjlYSs8APHc5U4lEgWOlEDqAPDRNhQzRJFLE87vkg5
+EULHhgnkitqIrJQ0MEY2FBgIQzDEsU6EYamqnBBlhi7fAwKmWRqCOrMtoDKimQJQ
+xLDcNtI0JUq41PWUuC5tknIpGTjlLgkzvox/uXZ+l1hBUaxb107RV4sV9ej19wNe
+vVXYjtffnpffOeBxfoRV31D9op0Wn2hqmXb69dhc30mzfuVmHfry/FTbNjGxsa3l
+5Zg3F+/WrSss61eXrH+rVZ1ZMGfQ2JvNI85uHjrz+/Bkn+PJxntv9gy/t+dcC0vU
+pHofTuRyweiT06aOmpfcPb1hIN8+YXXr8p0nf35u7V6Y6Dkofv/GuXWt18o+eVvY
+w+5O/y71vf3ShuKlL89Prtn2Kv+geNhcqPc48nBjLatKrLgzpQl8b9mRT1TuGug6
++f29RtYOaf91+uiMNeHsTcmyDZefPB3n5r81XZ/bHCr7nj05+nHtlL1Vfb8OeXT8
+3eDqK1sHvB/XfP/8+MyDb23VB8sWXGhq/GDe7PPjN9E+VvQ=
+=Dg7N
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ajstonge
+
+==================================================================
