@@ -1,5 +1,5 @@
 
-### TODO
+### Read
 
 * [Breaking into Infosec](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
 * [Malware RE 101/102](https://securedorg.github.io/)
