@@ -12,7 +12,7 @@
 
 ### Pentesterlab
 * [Web for pentester](https://pentesterlab.com/exercises/web_for_pentester)
-* [Web for pentester 2](Web for Pentester II)
+* [Web for pentester 2](https://pentesterlab.com/exercises/web_for_pentester_II)
 * [SQLi to Shell](https://pentesterlab.com/exercises/from_sqli_to_shell)
 * [SQLi to Shell 2](https://pentesterlab.com/exercises/from_sqli_to_shell_II)
 * [XSS and MYSQL FILE](https://pentesterlab.com/exercises/xss_and_mysql_file)
@@ -21,7 +21,7 @@
 
 ### Vulnhub CTFs (ongoing)**
 * [XVWA](https://www.vulnhub.com/entry/xtreme-vulnerable-web-application-xvwa-1,209/)
-* ~Bsides London (walkthrough)~
+* [~Bsides London (walkthrough)~](https://www.vulnhub.com/entry/hackerhouse-bsides-london-2017,202/)
 * [Vuln Docker Container](https://www.vulnhub.com/entry/vulnerable-docker-1,208/)
 
 ### Hackthebox (ongoing)

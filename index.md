@@ -37,4 +37,4 @@ My stuff
 * [Cybrary](https://www.cybrary.it/members/astonge/)
 * [Twitter](https://twitter.com/sp4c3_m0nk3y)
 * [Github](https://github.com/astonge)
-* [F/W TODO](http://evil.nastyvirus.download/todo.md)
+* [F/W 2017 TODO](https://github.com/astonge/evil.nastyvirus.download/blob/master/todo.md)
