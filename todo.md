@@ -30,7 +30,7 @@
 
 ### Books
 * [Practical Malware Analysis](https://www.nostarch.com/malware.htm)
-* [The IDA Pro Book](The IDA Pro Book)
+* [The IDA Pro Book](https://www.nostarch.com/idapro2.htm)
 
 ### Malware Unicorn
 * [RE101](https://securedorg.github.io/RE101/)
