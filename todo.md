@@ -8,7 +8,6 @@
 
 ### Books
 * [Web Application Hacker's Handbook](https://www.amazon.ca/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
-*
 
 ### Pentesterlab
 * [Web for pentester](https://pentesterlab.com/exercises/web_for_pentester)
@@ -38,7 +37,7 @@
 
 ### Videos
 * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
-* [MWA For Headhogs **turn subtitles on**](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+* [MWA For Headhogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) **turn subtitles on**
 
 ## General
 
