@@ -5,6 +5,8 @@
 ### Videos
 * [How to Shot Web: Web and mobile hacking in 2015](https://www.youtube.com/watch?v=-FAjxUOKbdI)
 * [Bug Bounty Hunting Methodology v2](https://www.youtube.com/watch?v=C4ZHAdI8o1w&t=1174s)
+* [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw/videos)
+* [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww/videos)
 
 ### Books
 * [Web Application Hacker's Handbook](https://www.amazon.ca/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
