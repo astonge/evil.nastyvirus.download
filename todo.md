@@ -28,6 +28,9 @@
 
 ## Malware Analyis
 
+### Awesome Malware Analysis
+* [AMA](https://github.com/rshipp/awesome-malware-analysis)
+
 ### Books
 * [Practical Malware Analysis](https://www.nostarch.com/malware.htm)
 * [The IDA Pro Book](https://www.nostarch.com/idapro2.htm)
@@ -40,11 +43,12 @@
 * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
 * [MWA For Headhogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) **turn subtitles on**
 
-## General
+## General Networking and Security
 
 ### Prof. Messer Videos
-	* [Network+]()
-	* [Security+]()
+	* [Network+](#)
+	* [Security+](#)
+	* [Cybrary](#)
 
 # Incase you get off track
 [Breaking into Infosec](https://s3ctur.wordpress.com/2017/06/19/breaking-into-infosec-a-beginners-curriculum/)
